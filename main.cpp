@@ -10,6 +10,7 @@ int main()
     std::cin >> a >> b;
     std::cout << "A + B = " << a + b <<'\n'; //комментарий
     std::cout << "A - B = " << a - b <<'\n';
+    std::cout << "A * B = " << a * b <<'\n';
     std::cout << "A / B = " << a / b <<'\n';
 }
 
