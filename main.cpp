@@ -1,6 +1,6 @@
 #include "std.h"
  
-
+//учебная програма
 
  
 int main()
@@ -11,16 +11,4 @@ int main()
     std::cout << "A + B = " << a + b <<'\n';
     std::cout << "A - B = " << a - b <<'\n';
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
