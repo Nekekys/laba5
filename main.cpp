@@ -1,7 +1,7 @@
 #include "std.h"
  
 //учебная програма
-
+// sinhronozaci9
  
 int main()
 {
